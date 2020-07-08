@@ -42,7 +42,8 @@ def get_loader(args):
     transform = transforms.Compose([
         transforms.Resize((input_size, input_size)),
         transforms.ToTensor(),
-        transforms.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5))
+        # transforms.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5))
+        transforms.Normalize([0.5], [0.5])
     ])
     
     # Get loader
