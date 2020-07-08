@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a3b8921-65a0-4dd2-96fd-9c5d39a45235" name="KAIST_124" url="http://143.248.159.124">
+        <fileTransfer host="143.248.159.124" port="8022" rootFolder="/home/nas1_userB/kangyeol" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="8022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

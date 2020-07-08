@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="KAIST_124" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="KAIST_124">
+        <serverdata>
+          <mappings>
+            <mapping deploy="personal_collections/gan_series" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kangyeol@143.248.159.124:8022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/nas1_userB/kangyeol/personal_collections/gan_series" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
